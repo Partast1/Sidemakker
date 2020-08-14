@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Sideho"
+    }
+  },
+  "defaultProject": "Sideho",
+  "cli": {
+    "analytics": false
+  }
 }
